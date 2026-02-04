@@ -17,4 +17,4 @@ Accepted at *Results in Engineering*, 2025.
 
 ## Code
 
-🚧 Code release in progress. Stay tuned!
+🚧 We’re currently experiencing server issues. The code will be released once the server is back online.
